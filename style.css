@@ -50,6 +50,7 @@ ul {
 }
 
 li,
+h1,
 h3 {
   list-style: none;
 }
@@ -75,6 +76,7 @@ button:hover {
 
 /* Heading */
 
+h1,
 h3,
 label[for="new-task"] {
   color: #333;
@@ -114,7 +116,7 @@ input#new-task {
   width: 318px;
 }
 
-p > button:hover {
+section > button:hover {
     color: #0fc57c;
 }
 
